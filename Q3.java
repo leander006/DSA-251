@@ -1,7 +1,7 @@
 import java.util.* ;
 import java.io.*; 
 
-class NonDecresingArray {
+class Q3 {
 	public static boolean isPossible(int[] arr, int n) {
 		int notInIndex =-1;
 

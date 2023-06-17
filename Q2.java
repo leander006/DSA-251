@@ -1,6 +1,6 @@
 import java.util.* ;
 import java.io.*; 
-class RotateArrayByK {
+class Q2 {
 	
 	public static void main(String args[]) {
 		Scanner l = new Scanner(System.in);

@@ -1,7 +1,7 @@
 import java.util.* ;
 import java.io.*; 
 
-class SecondLargestEle {
+class Q1{
       public static void sort(int arr[], int l, int r)
     {
         if (l < r) {
