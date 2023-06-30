@@ -1,4 +1,4 @@
-import java.util.* ;
+    import java.util.* ;
 import java.io.*; 
 class Q4 {
     public static void sort012(int[] arr)
